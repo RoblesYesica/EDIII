@@ -1,0 +1,4 @@
+../src/ej3-configGpio-set-get.c:20:5:main	8	static
+../src/ej3-configGpio-set-get.c:34:6:configGpio	24	static
+../src/ej3-configGpio-set-get.c:101:6:getGpio	24	static
+../src/ej3-configGpio-set-get.c:121:6:delay	24	static
